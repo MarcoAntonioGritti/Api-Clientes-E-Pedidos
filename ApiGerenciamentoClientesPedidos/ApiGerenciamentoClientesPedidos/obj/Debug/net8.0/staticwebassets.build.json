@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZkI0aZ0rfDCWebHsYuCvqGy0rl8dCa4ZqWKg4H9eiWE=",
+  "Source": "ApiGerenciamentoClientesPedidos",
+  "BasePath": "_content/ApiGerenciamentoClientesPedidos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
