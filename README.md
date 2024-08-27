@@ -55,7 +55,7 @@ Navegue até o diretório do repositório clonado:
 Crie uma nova branch:
 -git checkout -b minha-branch
 
-Contribuindo
+## Contribuindo
 Este projeto é de código aberto e qualquer um pode usá-lo, modificá-lo e contribuir com melhorias. Sinta-se à vontade para fazer um fork, criar uma branch para suas modificações e enviar um pull request!
 
 📚 Como Usar
